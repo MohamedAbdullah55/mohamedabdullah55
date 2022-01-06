@@ -11,18 +11,19 @@
      &nbsp;
      <a href="https://www.kaggle.com/jeffheaton"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 ---  
+<!--      
 ### Statistics 📈
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mohamedabdullah55.mohamedabdullah55)
+ ![Followers](https://img.shields.io/github/followers/mohamedabdullah55)
   
- <!-- <div>
+ <div>
     <img src='https://github-readme-stats.vercel.app/api?username=mohamedabdullah55&show_icons=true&theme=lue-white&line_height=27'/>
-  </div> -->
+  </div>
   
   <div>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdullah55&theme=blue-white'>
     <!-- &nbsp;&nbsp;&nbsp;
     <img src='https://github-readme-stats.vercel.app/api?username=mohamedabdullah55&show_icons=true&theme=lue-white&line_height=27'/ height=269.6px> -->
-  </div>
-  
-  
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mohamedabdullah55.mohamedabdullah55)
- ![Followers](https://img.shields.io/github/followers/mohamedabdullah55)
+ </div>
+ -->
+ 
