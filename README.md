@@ -19,8 +19,8 @@
   
   <div>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdullah55&theme=blue-white'>
-    &nbsp;&nbsp;&nbsp;
-    <img src='https://github-readme-stats.vercel.app/api?username=mohamedabdullah55&show_icons=true&theme=lue-white&line_height=27'/ height=269.6px>
+    <!-- &nbsp;&nbsp;&nbsp;
+    <img src='https://github-readme-stats.vercel.app/api?username=mohamedabdullah55&show_icons=true&theme=lue-white&line_height=27'/ height=269.6px> -->
   </div>
   
   
