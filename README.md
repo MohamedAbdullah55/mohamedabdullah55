@@ -7,9 +7,9 @@
 
      [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.abdullah.kamel1997@gmail.com)
      &nbsp;
-     ![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+     <a href="https://www.linkedin.com/in/mohamedabdullahkamel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
      &nbsp;
-     <a href="https://www.kaggle.com/jeffheaton"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+     <a href="https://www.kaggle.com/mohamedabdullah"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
      
 <!-- ### Statistics 📈
 ---
