@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohamed Abdullah 👋
-- 🎓 I'm Graduated from faculty of computer science Assiut university
+- 🎓 I'm Graduated from faculty of computer and information Assiut university
 - 🔭 I'm currently working on preparation for my AI and data science professional master degree at uOttawa University
 - 🌱 I'm currently learning data analysis and machine learning
 - 👯 I'm looking to collaborate on open source projects
