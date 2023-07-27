@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohamed Abdullah 👋
-- 🎓 I'm Graduated from faculty of computer and information Assiut university
-- 🔭 I'm currently working on preparation for my AI and data science professional master degree at uOttawa University
+- 🎓 I Graduated from the faculty of computer and Information Assiut University
+- 🔭 I completed my AI and data science professional master's degree at Ottawa University
 - 🌱 I'm currently learning data analysis and machine learning
-- 👯 I'm looking to collaborate on open source projects
+- 👯 I'm looking to collaborate on open-source projects
 - 📫 How to reach me
 
      [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.abdullah.kamel1997@gmail.com)
